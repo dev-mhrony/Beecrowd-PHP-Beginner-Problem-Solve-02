@@ -23,14 +23,12 @@
 
 // Example 01
 
-
-
 $a = 10;
 $b = 9;
 
 $x = $a + $b;
 
-echo "x = $x";
+echo "X = $x";
 echo "<br>";
 
 // ==================================================
@@ -43,7 +41,7 @@ $b = 4;
 
 $x = $a + $b;
 
-echo "x = $x";
+echo "X = $x";
 
 echo "<br>";
 
@@ -57,9 +55,10 @@ $b = -7;
 
 $x = $a + $b;
 
-echo "x = $x";
+echo "X = $x";
 
 
 // Many thanks for verifying my solution.
+
 
 ?>
